@@ -1,0 +1,58 @@
+{
+"companyName" : "Azamoon",
+"headOffice" : "67-35 Hickling Trail, Barrie, ON L4M 5S8",
+"established" : 2019, 
+"active" : true,
+"topFlavours" : [
+  {
+    "name" : "A Baby", 
+    "description" : "Asian baby",
+    "price" : "20000 $", 
+    "feature" : [
+      "Baby dress", "A ball", "Baby mob" 
+    ],
+    "image": "baby.jpg"
+  },
+  
+  {
+    "name" : "A Cat Carrier", 
+    "description" : "girl",
+    "price" : "20 $/hr",
+    "feature" : [
+      "Cat lover", "Nice", "Friendly"
+    ],
+    "image" : "cat-carrier.jpeg"
+  },
+  
+  {
+    "name" : "A Fashion Poppy",
+    "description" : "dog",
+    "price" : "999 $",
+    "feature" : [
+      "Qquiet", "Friendly", "With a wig", "1 year old", "Two years waranty"
+    ],
+    "image" : "fashion-dog.jpg"
+    },
+  
+  {
+    "name" : "A Turkey Hat",
+    "description" : "hat",
+    "price" : "12.99 $",
+    "feature" : [
+      "Warm", "Fantasy", "Soft"
+    ],
+    "image" : "turkey-hat.jpeg"
+     },
+  
+  {
+    "name" : "A Bloody Bath Mat",
+    "description" : "bath mat",
+    "price" : "12.96 $",
+    "feature" : [
+      "Real blood", "Soft", "Fresh blood"
+    ],
+    "image" : "bloody-bath-mat.jpg"
+    }
+  ]
+}
+
